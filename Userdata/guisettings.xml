@@ -277,7 +277,7 @@
         <export></export>
         <import></import>
         <showcompilationartists>true</showcompilationartists>
-        <updateonstartup>false</updateonstartup>
+        <updateonstartup>true</updateonstartup>
     </musiclibrary>
     <musicplayer>
         <autoplaynextitem>true</autoplaynextitem>
@@ -396,7 +396,7 @@
     <services>
         <airplay>true</airplay>
         <airplaypassword></airplaypassword>
-	<devicename>MEDIATHEK</devicename>
+        <devicename>MEDIATHEK</devicename>
         <esallinterfaces>true</esallinterfaces>
         <escontinuousdelay>25</escontinuousdelay>
         <esenabled>true</esenabled>
@@ -444,15 +444,15 @@
         <enabled>true</enabled>
         <export></export>
         <flattentvshows>1</flattentvshows>
-        <groupmoviesets>false</groupmoviesets>
+        <groupmoviesets>true</groupmoviesets>
         <import></import>
         <seasonthumbs>true</seasonthumbs>
         <showunwatchedplots>true</showunwatchedplots>
-        <updateonstartup>false</updateonstartup>
+        <updateonstartup>true</updateonstartup>
     </videolibrary>
     <videoplayer>
         <adjustrefreshrate>0</adjustrefreshrate>
-        <autoplaynextitem>false</autoplaynextitem>
+        <autoplaynextitem>true</autoplaynextitem>
         <displayresolution>14</displayresolution>
         <errorinaspect>0</errorinaspect>
         <maxspeedadjust>5.000000</maxspeedadjust>
@@ -471,7 +471,7 @@
         <usevdpaumixer>true</usevdpaumixer>
         <usexvba>true</usexvba>
         <vdpau_allow_xrandr>false</vdpau_allow_xrandr>
-        <vdpaustudiolevel>false</vdpaustudiolevel>
+        <vdpaustudiolevel>true</vdpaustudiolevel>
         <vdpauupscalinglevel>false</vdpauupscalinglevel>
     </videoplayer>
     <videoscreen>
