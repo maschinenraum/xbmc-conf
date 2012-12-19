@@ -29,7 +29,7 @@
         </source>
         <source>
             <name>Music.jambalaya</name>
-            <path pathversion="1">nfs://192.168.1.42//tank/media/TV/Music/</path>
+            <path pathversion="1">nfs://192.168.1.42//tank/media/Music/</path>
         </source>
     </music>
     <pictures>
