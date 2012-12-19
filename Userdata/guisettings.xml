@@ -396,7 +396,7 @@
     <services>
         <airplay>true</airplay>
         <airplaypassword></airplaypassword>
-        <devicename>XBMC-MR</devicename>
+	<devicename>MEDIATHEK</devicename>
         <esallinterfaces>true</esallinterfaces>
         <escontinuousdelay>25</escontinuousdelay>
         <esenabled>true</esenabled>
