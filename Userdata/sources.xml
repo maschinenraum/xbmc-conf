@@ -1,0 +1,49 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>Videos.LOCAL</name>
+            <path pathversion="1">/storage/videos/</path>
+        </source>
+        <source>
+            <name>Jambalaya_Media</name>
+            <path pathversion="1">nfs://192.168.1.42//tank/media/</path>
+        </source>
+        <source>
+            <name>Movies.jambalaya.SOURCE</name>
+            <path pathversion="1">nfs://192.168.1.42//tank/media/Movies/</path>
+        </source>
+        <source>
+            <name>TV-Series.jambalaya.SOURCE</name>
+            <path pathversion="1">nfs://192.168.1.42//tank/media/TV/Series/</path>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+        <source>
+            <name>Music.LOCAL</name>
+            <path pathversion="1">/storage/music/</path>
+        </source>
+        <source>
+            <name>Music.jambalaya</name>
+            <path pathversion="1">nfs://192.168.1.42//tank/media/TV/Music/</path>
+        </source>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+        <source>
+            <name>Pictures.LOCAL</name>
+            <path pathversion="1">/storage/pictures/</path>
+        </source>
+        <source>
+            <name>Screenshots.XBMC</name>
+            <path pathversion="1">/storage/screenshots/</path>
+        </source>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+    </files>
+</sources>
